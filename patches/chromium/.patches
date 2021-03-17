@@ -157,3 +157,4 @@ cherry-pick-b772b48067c4.patch
 cherry-pick-3910c9f5cde6.patch
 cherry-pick-5651fb858b75.patch
 cherry-pick-b3dc4c4b349d.patch
+css_make_fetches_from_inline_css_use_the_document_s_url_as_referrer.patch
